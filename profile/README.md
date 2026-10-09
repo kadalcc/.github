@@ -5,7 +5,7 @@ An AI product studio in Chennai, India. We build our own products and help teams
 ## Products
 
 **[Kadal Deck](https://deck.kadal.cc)**: slides in MDX, a live room for your audience, and one command to publish.
-The engine is open source at [kadalcc/kadal-deck](https://github.com/kadalcc/kadal-deck) (AGPL-3.0).
+The engine is open source at [kadalcc/deck](https://github.com/kadalcc/deck) (AGPL-3.0).
 
 ## Elsewhere
 
