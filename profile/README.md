@@ -18,7 +18,7 @@ The engine is open source at [kadalcc/deck](https://github.com/kadalcc/deck) (AG
 ## Find us
 
 - **Talk with us:** [Discord](https://discord.gg/pdWcSbxNKa) · [Discussions](https://github.com/orgs/kadalcc/discussions) · [Telegram](https://t.me/kadalcc)
-- **Follow:** [X](https://x.com/kadalstudio) · [LinkedIn](https://www.linkedin.com/company/kadalcc/) · [Bluesky](https://bsky.app/profile/kadal.cc) · [Threads](https://www.threads.com/@kadalstudio) · [Instagram](https://www.instagram.com/kadalstudio/) · [Facebook](https://www.facebook.com/kadalcc) · [YouTube](https://www.youtube.com/@kadalcc)
+- **Follow:** [X](https://x.com/kadalstudio) · [LinkedIn](https://www.linkedin.com/company/kadalcc/) · [Bluesky](https://bsky.app/profile/kadal.cc) · [Threads](https://www.threads.com/@kadalstudio) · [Instagram](https://www.instagram.com/kadalstudio/) · [Facebook](https://www.facebook.com/kadalcc) · [YouTube](https://www.youtube.com/@kadalcc) · [WhatsApp](https://whatsapp.com/channel/0029VbE31xk1Hspu4KGxUR28)
 - **Read and build:** [DEV](https://dev.to/kadalcc) · [npm](https://www.npmjs.com/package/@kadal/deck) · [Product Hunt](https://www.producthunt.com/products/kadal-deck)
 
 Privacy and terms: [kadal.cc/privacy](https://kadal.cc/privacy) · [kadal.cc/terms](https://kadal.cc/terms)
