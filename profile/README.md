@@ -1,10 +1,11 @@
-<img src="assets/banner.jpg" alt="Kadal, an AI product studio in Chennai: we build AI products end to end. Kadal Deck, the AI presentation app, at deck.kadal.cc; work with us at work.kadal.cc." width="100%">
+<img src="assets/banner.jpg" alt="Kadal, an AI product studio in Chennai: we build AI products end to end. Kadal Deck, the AI presentation app, at deck.kadal.cc; Kadal Store, printable planners, sounds and design assets, at store.kadal.cc; work with us at work.kadal.cc." width="100%">
 
 ### Hi, we're Kadal 👋
 
 An AI product studio in Chennai, India. We build AI products end to end: the model work, the platform under it, the UI on top. Then we ship them and keep them running.
 
-- **Our product:** [Kadal Deck](https://deck.kadal.cc), the AI presentation app. Make slides with AI, rehearse them, and present them live while your audience joins from their phones. Launched on Product Hunt on 27 Oct 2026.
+- **Our products:** [Kadal Deck](https://deck.kadal.cc), the AI presentation app. Make slides with AI, rehearse them, and present them live while your audience joins from their phones. Launched on Product Hunt on 27 Oct 2026.
+- **Our shop:** [Kadal Store](https://store.kadal.cc/?ref=github): printable planners and stationery, music and sound effects, WebGL shaders, seamless patterns, 3D and LUTs. Pay once, keep the files.
 - **Open source:** the Deck engine is [kadalcc/deck](https://github.com/kadalcc/deck) (AGPL-3.0), on npm as [@kadal/deck](https://www.npmjs.com/package/@kadal/deck), with the desktop app on [Homebrew](https://github.com/kadalcc/homebrew-tap) and [Scoop](https://github.com/kadalcc/scoop-bucket).
 - **Client work:** LLM agents inside your product, whole products from idea to production, and the performance work that keeps them fast. Start at [work.kadal.cc](https://work.kadal.cc).
 - **Founded by:** [Mithunish Prabhakaran](https://github.com/pmithunish), AI product engineer ([pmithunish.com](https://pmithunish.com)).
@@ -19,19 +20,26 @@ An AI product studio in Chennai, India. We build AI products end to end: the mod
       <br><sub>MDX · React · MCP · Durable Objects with hibernating WebSockets · open source (AGPL)</sub>
     </td>
     <td width="50%" valign="top">
+      <a href="https://store.kadal.cc/?ref=github"><img src="assets/store.jpg" alt="Kadal Store: Print it. Play it. Make it yours."></a>
+      <br><b><a href="https://store.kadal.cc/?ref=github">Kadal Store</a></b>: printable planners and stationery, music loops and sound effects, WebGL shaders, seamless patterns, low-poly 3D and LUTs. Pay once and keep the files, with personal and commercial licences.
+      <br><sub>Cloudflare Workers · Hono · D1 · R2 · Paddle</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://sanket.kadal.cc"><img src="assets/sanket.jpg" alt="Sanket: Indian Sign Language recognition that never uploads your video"></a>
       <br><b><a href="https://sanket.kadal.cc">Sanket</a></b>: Indian Sign Language recognition that runs fully offline in the browser. A 4.6 MB model at 12.5 ms per window over an 8,165-word vocabulary.
       <br><sub>MediaPipe · PyTorch · self-supervised JEPA · int8 ONNX · Web Workers</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://ooru.kadal.cc"><img src="assets/ooru.jpg" alt="Ooru: three words, one place, nested"></a>
       <br><b><a href="https://ooru.kadal.cc">Ooru</a></b>: a three-word address for every 12.5 m of Chennai, plus a <a href="https://ooru.kadal.cc/outages">citizen power-cut map</a> that resists abuse without logins.
       <br><sub>Next.js on Cloudflare Workers · D1 · deck.gl · MapLibre · Turnstile</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://kadal.cc"><img src="assets/kadal.jpg" alt="kadal.cc: a toon sea where every product is an island"></a>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://kadal.cc"><img src="assets/kadal.jpg" alt="kadal.cc: a toon sea where every product is an island" width="50%"></a>
       <br><b><a href="https://kadal.cc">kadal.cc</a></b>: our home, a scroll-dive through a toon sea where every product is an island. 54 procedurally generated Blender assets in ~1.3 MB.
       <br><sub>three.js · TypeScript · Blender CLI</sub>
     </td>
@@ -95,7 +103,9 @@ TypeScript · React · Bun · Hono · Effect · Cloudflare (Workers, D1, Durable
       <b>Talk with us</b>
       <br><a href="https://discord.gg/pdWcSbxNKa">Discord</a> · <a href="https://github.com/orgs/kadalcc/discussions">Discussions</a> · <a href="https://t.me/kadalcc">Telegram</a>
       <br><br><b>Follow</b>
-      <br><a href="https://x.com/kadalstudio">X</a> · <a href="https://www.linkedin.com/company/kadalcc/">LinkedIn</a> · <a href="https://bsky.app/profile/kadal.cc">Bluesky</a> · <a href="https://www.threads.com/@kadalstudio">Threads</a> · <a href="https://www.instagram.com/kadalstudio/">Instagram</a> · <a href="https://www.facebook.com/kadalcc">Facebook</a> · <a href="https://www.youtube.com/@kadalcc">YouTube</a> · <a href="https://whatsapp.com/channel/0029VbE31xk1Hspu4KGxUR28">WhatsApp</a>
+      <br><a href="https://x.com/kadalstudio">X</a> · <a href="https://www.linkedin.com/company/kadalcc/">LinkedIn</a> · <a href="https://bsky.app/profile/kadal.cc">Bluesky</a> · <a href="https://www.threads.com/@kadalstudio">Threads</a> · <a href="https://www.instagram.com/kadalstudio/">Instagram</a> · <a href="https://www.facebook.com/kadalcc">Facebook</a> · <a href="https://www.youtube.com/@kadalcc">YouTube</a> · <a href="https://www.pinterest.com/kadalcc/">Pinterest</a> · <a href="https://whatsapp.com/channel/0029VbE31xk1Hspu4KGxUR28">WhatsApp</a>
+      <br><br><b>Shop</b>
+      <br><a href="https://store.kadal.cc/?ref=github">Kadal Store</a>: planners, stationery, sounds and design assets
       <br><br><b>Read and build</b>
       <br><a href="https://dev.to/kadalcc">DEV</a> · <a href="https://www.npmjs.com/package/@kadal/deck">npm</a> · <a href="https://www.producthunt.com/products/kadal-deck">Product Hunt</a>
     </td>
