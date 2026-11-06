@@ -6,7 +6,7 @@ An AI product studio in Chennai, India. We build AI products end to end: the mod
 
 - **Our products:** [Kadal Deck](https://deck.kadal.cc), the AI presentation app. Make slides with AI, rehearse them, and present them live while your audience joins from their phones. Launched on Product Hunt on 27 Oct 2026.
 - **Our shop:** [Kadal Store](https://store.kadal.cc/?ref=github): printable planners and stationery, music and sound effects, WebGL shaders, seamless patterns, 3D and LUTs. Pay once, keep the files.
-- **Open source:** the Deck engine is [kadalcc/deck](https://github.com/kadalcc/deck) (AGPL-3.0), on npm as [@kadal/deck](https://www.npmjs.com/package/@kadal/deck), with the desktop app on [Homebrew](https://github.com/kadalcc/homebrew-tap) and [Scoop](https://github.com/kadalcc/scoop-bucket).
+- **Open source:** [Kadal UI](https://ui.kadal.cc), React components for power users: a data grid on TanStack Table v9 and shadcn/ui that one command copies into your project ([kadalcc/ui](https://github.com/kadalcc/ui), MIT). The Deck engine is [kadalcc/deck](https://github.com/kadalcc/deck) (AGPL-3.0), on npm as [@kadal/deck](https://www.npmjs.com/package/@kadal/deck), with the desktop app on [Homebrew](https://github.com/kadalcc/homebrew-tap) and [Scoop](https://github.com/kadalcc/scoop-bucket).
 - **Client work:** LLM agents inside your product, whole products from idea to production, and the performance work that keeps them fast. Start at [work.kadal.cc](https://work.kadal.cc).
 - **Founded by:** [Mithunish Prabhakaran](https://github.com/pmithunish), AI product engineer ([pmithunish.com](https://pmithunish.com)).
 
@@ -48,7 +48,25 @@ An AI product studio in Chennai, India. We build AI products end to end: the mod
 
 ### Open source
 
-The Kadal Deck engine is the same one that runs [deck.kadal.cc](https://deck.kadal.cc): write a talk in MDX, rehearse it, present it with a live room, export it to PDF or PPTX.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ui.kadal.cc"><img src="assets/ui.webp" alt="Kadal UI: Components you own."></a>
+      <br><b><a href="https://ui.kadal.cc">Kadal UI</a></b>: Components you own. A power-user data grid for React, built on TanStack Table v9 and shadcn/ui. One command copies the source into your project. MIT.
+      <br><sub>React · TanStack Table v9 · shadcn/ui · Base UI · TypeScript · open source (MIT)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Install</b>
+      <br><code>npx shadcn@latest add @kadal/data-grid</code>
+      <br><br><b>Source and package</b>
+      <br><a href="https://github.com/kadalcc/ui">kadalcc/ui</a> · <a href="https://www.npmjs.com/package/@kadal/ui">@kadal/ui</a> on npm, the CLI · <a href="https://ui.kadal.cc">ui.kadal.cc</a>, the docs
+      <br><br><b>Free, MIT</b>
+      <br>Open-source React components for power users. Use them in anything; if they earn their keep, <a href="https://github.com/sponsors/pmithunish">sponsor the work</a>.
+    </td>
+  </tr>
+</table>
+
+The Kadal Deck engine is open source too, the same one that runs [deck.kadal.cc](https://deck.kadal.cc): write a talk in MDX, rehearse it, present it with a live room, export it to PDF or PPTX.
 
 ```sh
 npm create @kadal/deck@latest my-talk                # a new deck, from npm
@@ -59,6 +77,7 @@ scoop install kadal/kadal-deck                       # the desktop app on Window
 
 | Repository | What it is |
 | --- | --- |
+| [kadalcc/ui](https://github.com/kadalcc/ui) | Kadal UI: the data grid, the shadcn registry it ships through, and the `@kadal/ui` CLI (MIT) |
 | [kadalcc/deck](https://github.com/kadalcc/deck) | The engine, CLI, themes and MCP server for Kadal Deck (AGPL-3.0) |
 | [kadalcc/homebrew-tap](https://github.com/kadalcc/homebrew-tap) | Homebrew cask for the desktop app and formula for the `kadal-deck` CLI |
 | [kadalcc/scoop-bucket](https://github.com/kadalcc/scoop-bucket) | Scoop manifests for the desktop app and the CLI on Windows |
@@ -107,7 +126,7 @@ TypeScript · React · Bun · Hono · Effect · Cloudflare (Workers, D1, Durable
       <br><br><b>Shop</b>
       <br><a href="https://store.kadal.cc/?ref=github">Kadal Store</a>: planners, stationery, sounds and design assets
       <br><br><b>Read and build</b>
-      <br><a href="https://dev.to/kadalcc">DEV</a> · <a href="https://www.npmjs.com/package/@kadal/deck">npm</a> · <a href="https://www.producthunt.com/products/kadal-deck">Product Hunt</a>
+      <br><a href="https://dev.to/kadalcc">DEV</a> · <a href="https://www.npmjs.com/package/@kadal/deck">npm</a> · <a href="https://ui.kadal.cc">Kadal UI</a> · <a href="https://www.producthunt.com/products/kadal-deck">Product Hunt</a>
     </td>
   </tr>
 </table>
