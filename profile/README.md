@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Kadal, an AI product studio in Chennai: we build AI products end to end. Kadal Deck, the AI presentation app, at deck.kadal.cc; Kadal Store, printable planners, sounds and design assets, at store.kadal.cc; work with us at work.kadal.cc." width="100%">
+<img src="assets/banner.jpg" alt="Kadal, an AI product studio in Chennai: we build AI products end to end. Kadal UI, Kadal Deck and Kadal Store, at kadal.cc. Beside the words, the Kadal mark as three windows onto kadal.cc: the lighthouse, the Ooru island and the Compass turtle." width="100%">
 
 ### Hi, we're Kadal 👋
 
