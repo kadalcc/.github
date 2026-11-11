@@ -89,7 +89,7 @@ Questions, ideas and show-and-tell go in [Discussions](https://github.com/orgs/k
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://work.kadal.cc"><img src="assets/work.jpg" alt="work.kadal.cc: we build AI products end to end, and ship them"></a>
+      <a href="https://work.kadal.cc"><img src="assets/work.jpg" alt="work.kadal.cc: Kadal studio, we build AI products end to end"></a>
     </td>
     <td width="50%" valign="top">
       <b>What we take on</b>
