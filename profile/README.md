@@ -117,6 +117,7 @@ TypeScript · React · Bun · Hono · Effect · Cloudflare (Workers, D1, Durable
     <td width="50%" valign="top">
       <a href="https://kadal.cc"><img src="assets/kadal-card.jpg" alt="Kadal, AI studio: kadal.cc"></a>
       <br><b><a href="https://kadal.cc">kadal.cc</a></b>: our home on the web. Write to us at <a href="mailto:hello@kadal.cc">hello@kadal.cc</a>.
+      <br><br><b>Office</b>: Chennai, India, by appointment. <a href="https://work.kadal.cc/contact/#office-h">Address and map</a>.
     </td>
     <td width="50%" valign="top">
       <b>Talk with us</b>
