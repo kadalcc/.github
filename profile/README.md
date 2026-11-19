@@ -9,6 +9,7 @@ An AI product studio in Chennai, India. We build AI products end to end: the mod
 - **Open source:** [Kadal UI](https://ui.kadal.cc), React components for power users: a data grid on TanStack Table v9 and shadcn/ui that one command copies into your project ([kadalcc/ui](https://github.com/kadalcc/ui), MIT). The Deck engine is [kadalcc/deck](https://github.com/kadalcc/deck) (AGPL-3.0), on npm as [@kadal/deck](https://www.npmjs.com/package/@kadal/deck), with the desktop app on [Homebrew](https://github.com/kadalcc/homebrew-tap) and [Scoop](https://github.com/kadalcc/scoop-bucket).
 - **Client work:** LLM agents inside your product, whole products from idea to production, and the performance work that keeps them fast. Start at [work.kadal.cc](https://work.kadal.cc).
 - **Founded by:** [Mithunish Prabhakaran](https://github.com/pmithunish), AI product engineer ([pmithunish.com](https://pmithunish.com)).
+- **Founding engineer:** [Yugesh M M](https://github.com/mmyugesh), AI product engineer ([portfolio](https://portfolio.mmyugesh.workers.dev/)). Meet us both at [work.kadal.cc/about](https://work.kadal.cc/about/#people).
 
 ### What we've built, live
 
